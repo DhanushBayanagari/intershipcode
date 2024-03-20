@@ -1,0 +1,17 @@
+body{
+    background-color: rgba(147, 125, 169, 0.709)!important;
+}
+.col-md-7{
+    background-color: white !important;
+    margin-top: 150px !important;
+    padding: 20px;
+}
+h1{
+    background-color: rgba(99, 119, 157, 0.928);
+}
+
+input,label{
+    margin: 10px;
+    font-size: 20px !important;
+    font-weight: bold !important;
+}

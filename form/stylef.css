@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(253, 243, 200) !important;
+}
+.col-md-6{
+    margin-top: 150px!important;
+    box-shadow: 2px red !important;
+    padding: 20px!important;
+    background-color: aliceblue;
+}
+.form-control{
+    margin-top: 20px!important;
+}
+button{
+   
+    margin-top: 45px!important;
+    float: left !important;
+}
+.success{
+    border: 1px solid green !important;;
+}
+.error{
+  border: 1px solid red !important;
+}
+small{
+    color:red;
+    font-weight: bolder;
+   
+    text-align: start !important;
+    margin:5px!important;
+    margin-left:2px !important;
+}

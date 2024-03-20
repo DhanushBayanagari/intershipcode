@@ -1,0 +1,19 @@
+.maindiv{
+    background-color: blue;
+    height: 100vh;
+    width: 0;
+    transition: 1s;
+}
+button{
+    margin-top: 10px !important;
+}
+ul{
+    text-align: center!important;
+}
+li{
+    list-style-type: none !important;
+    margin-top: 50px;
+    font-size: 30px;
+    color: white !important;
+    display: none ;
+}
